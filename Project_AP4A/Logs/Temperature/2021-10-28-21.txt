@@ -1,0 +1,1 @@
+[21:20:59](Temperature) temp_1 : 19.147312 Celsius
